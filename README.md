@@ -2,6 +2,7 @@
 
 So far collection include system prompts for:
 
+- Augment Code
 - BlackboxAI
 - Bolt.new
 - ChatGPT
