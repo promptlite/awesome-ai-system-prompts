@@ -10,6 +10,7 @@ So far collection include system prompts for:
 - Loveable
 - Manus
 - MetaAI
+- Notte
 - same.new
 - v0
 
