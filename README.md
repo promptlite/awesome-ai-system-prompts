@@ -6,11 +6,13 @@ So far collection include system prompts for:
 - Bolt.new
 - ChatGPT
 - Claude
+- Claude Code
 - Cline
 - Loveable
 - Manus
 - MetaAI
 - Notte
+- perplexity.ai
 - same.new
 - v0
 
