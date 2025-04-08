@@ -3,6 +3,7 @@
 So far collection include system prompts for:
 
 - BlackboxAI
+- Bolt.new
 - ChatGPT
 - Claude
 - Cline
