@@ -1,3 +1,101 @@
+---
+<div align="center">
+  <h1>🧠 PromptLite AI System Prompts Collection</h1>
+  <p><em>Enhanced fork of <a href="https://github.com/dontriskit/awesome-ai-system-prompts">dontriskit/awesome-ai-system-prompts</a></em></p>
+  <p><strong>🎯 Category:</strong> AI/LLM Repositories → Prompt Engineering</p>
+</div>
+
+---
+
+## 📌 Repository Description
+
+This repository is a curated and enhanced collection of system prompts designed for large language models (LLMs), with a special localization focus on Indonesian use cases. It includes:
+
+- Pre-built prompts for Claude, GPT-4, Gemini, and other models
+- Business, education, and e-commerce workflows specific to Southeast Asia
+- Support for RAG and multi-agent orchestration engines
+- Indonesia-focused prompt templates for WhatsApp, Telegram, and automation bots
+
+It is part of the **PromptLite Automation Hub** and serves as a foundational asset for developing context-aware, business-ready AI solutions.
+
+---
+
+## 🇮🇩 Indonesian AI Prompt Engineering
+Koleksi prompt sistem AI terbaik yang telah dikurasi dan diadaptasi khusus untuk keperluan bisnis dan profesional di Indonesia.
+
+### ✨ PromptLite Enhancements:
+- 🇮🇩 **Prompt Bahasa Indonesia** — Siap pakai untuk Claude, GPT, Gemini, dsb.
+- 🏢 **Business Templates Lokal** — Otomasi UKM, edukasi, e-commerce
+- 🧠 **Contextual Prompting** — Struktur modular untuk RAG dan Agentic bots
+- 🔧 **Panduan Implementasi** — Dokumentasi lengkap dalam Bahasa Indonesia
+
+---
+
+## 📁 Kategori Utama
+
+```
+📊 Business Automation
+  ├─ Customer Service & Chatbots
+  ├─ Sales & Marketing
+  └─ Business Documents & Admin
+
+📝 Creative Content
+  ├─ Blog & Artikel (Bahasa Indonesia)
+  ├─ Social Media Copy
+  └─ Visual & Branding Prompts
+
+🧠 Technical & DevOps
+  ├─ Code & Dev Prompting
+  ├─ QA, Testing, Debugging
+  └─ Documentation
+
+🌍 Indonesia Specific
+  ├─ Tokopedia / Shopee Sellers
+  ├─ UKM lokal & warung digital
+  └─ Konteks budaya & bahasa daerah
+```
+
+---
+
+## 🚀 Siap Digunakan untuk:
+
+- ✅ Workflow n8n & Zapier
+- ✅ Integrasi LLM (OpenAI, Claude, Gemini, Mistral)
+- ✅ Template WhatsApp & Telegram Chatbot
+- ✅ Input untuk RAG Systems & MPC Agents
+
+---
+
+## 💼 Contoh Penggunaan di Indonesia
+
+- **UMKM Online Shop** → Prompt balasan WhatsApp otomatis
+- **Restoran** → Deskripsi menu dan sistem feedback pelanggan
+- **Konsultan** → Proposal AI-assisted + dokumentasi klien
+- **Guru/Trainer** → Prompt edukasi adaptif untuk siswa Indonesia
+
+---
+
+## 📚 Dokumentasi Tambahan
+- [Panduan Setup Prompt Bahasa Indonesia](./docs/setup-guide-id.md)
+- [Studi Kasus Lokal](./docs/use-case-indonesia.md)
+- [Troubleshooting Prompt](./docs/troubleshooting.md)
+
+---
+
+## 💎 Komunitas & Layanan:
+- 🤹 [Starter Community](https://nas.io/otomasi-bisnis-id) — Prompt dasar + video tutorial
+- 🏆 [Pro Community](https://nas.io/automation-pro-id) — Custom prompts, konsultasi, lisensi white-label
+
+---
+
+## 📌 Tentang Repository Ini
+- **Forked from**: [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
+- **Enhanced by**: PromptLite Team
+- **License**: MIT
+- **Focus**: Prompt Engineering untuk pasar dan bahasa Indonesia
+
+---
+
 # Crafting Effective Prompts for Agentic AI Systems: Patterns and Practices
 
 ## Table of Contents
@@ -535,3 +633,9 @@ These differences highlight that there isn't a single "perfect" prompt structure
 System prompts are the bedrock upon which capable and reliable agentic AI systems are built. As demonstrated by the examples from v0, same.new, Manus, ChatGPT, and others, successful prompts are detailed, structured, and explicit. They clearly define the agent's role, meticulously outline tool usage and operational procedures, enforce planning and iterative execution, embed necessary domain knowledge and safety constraints, and guide the interaction style.
 
 For builders aiming to create the next generation of agentic AI in 2025 and beyond, studying these patterns provides invaluable insights. Mastering the craft of system prompting – blending clear instruction, structured organization, domain expertise, and safety considerations – will be key to unlocking the full potential of AI agents that can not only converse but actively collaborate and accomplish complex tasks in the digital world.
+
+
+<center>
+  <br/>
+  © 2025 PromptLite Automation • Part of the Indonesian Business Automation Ecosystem
+</center>
